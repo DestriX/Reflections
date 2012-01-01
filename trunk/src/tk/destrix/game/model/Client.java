@@ -4,11 +4,11 @@ import java.nio.ByteBuffer;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.SocketChannel;
 import java.security.SecureRandom;
-import java.util.Arrays;
 
 import tk.destrix.HostGateway;
 import tk.destrix.Server;
-import tk.destrix.game.Position;
+import tk.destrix.game.net.packet.PacketActor;
+import tk.destrix.game.net.packet.PacketManager;
 import tk.destrix.game.util.Misc;
 import tk.destrix.net.ISAACCipher;
 import tk.destrix.net.StreamBuffer;
@@ -81,38 +81,15 @@ public abstract class Client extends Entity {
 	}
 
 	/**
-	 * Handles a clicked button.
-	 * 
-	 * @param buttonId
-	 *            the button ID
-	 */
-	private void handleButton(int buttonId) {
-		switch (buttonId) {
-		case 9154:
-			player.getActionSender().sendLogout();
-			break;
-		case 153:
-			player.getMovementHandler().setRunToggled(true);
-			break;
-		case 152:
-			player.getMovementHandler().setRunToggled(false);
-			break;
-		default:
-			System.out.println("Unhandled button: " + buttonId);
-			break;
-		}
-	}
-
-	/**
 	 * Handles the current packet.
 	 */
 	private void handlePacket() {
 		timeoutStopwatch.reset();
 		int positionBefore = inData.position();
 		StreamBuffer.InBuffer in = StreamBuffer.newInBuffer(inData);
-
+		PacketManager.handlePacket(this, player, new PacketActor(packetOpcode, packetLength, in));
 		// Handle the packet.
-		try {
+		/*try {
 			switch (packetOpcode) {
 			case 145: // Remove item.
 				int interfaceID = in.readShort(StreamBuffer.ValueType.A);
@@ -178,11 +155,11 @@ public abstract class Client extends Entity {
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		} finally {
-			// Make sure we have finished reading all of this packet.
+			// Make sure we have finished reading all of this packet.*/
 			int read = inData.position() - positionBefore;
 			for (int i = read; i < packetLength; i++) {
 				inData.get();
-			}
+			//}
 		}
 	}
 

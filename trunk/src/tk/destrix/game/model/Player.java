@@ -420,7 +420,7 @@ public class Player extends Client {
 		World.register(this);
 		setUpdateRequired(true);
 		setAppearanceUpdateRequired(true);
-
+		getActionSender().sendLogin();
 		System.out.println(this + " has logged in.");
 	}
 

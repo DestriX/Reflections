@@ -13,6 +13,7 @@ import java.util.Map;
 import tk.destrix.game.World;
 import tk.destrix.game.model.Client;
 import tk.destrix.game.model.Player;
+import tk.destrix.game.net.packet.PacketManager;
 import tk.destrix.game.util.Misc;
 
 /**
@@ -77,6 +78,9 @@ public class Server implements Runnable {
 			address = new InetSocketAddress(host, port);
 			System.out.println("Starting RuneSource on " + address + "...");
 
+			// Load packets.
+			PacketManager.loadPackets();
+			
 			// Load configuration.
 			Misc.sortEquipmentSlotDefinitions();
 			Misc.loadStackableItems("./data/stackable.dat");

@@ -74,7 +74,7 @@ public class PlayerSave {
 		writer.write("[skills]:");
 		writer.newLine();
 		for (int i = 0; i < player.getSkill().getSkills().length; i++) {
-			writer.write(player.getSkill().getSkills()[i] + "," + player.getSkill().getExperience()[i]);
+			writer.write(player.getSkill().getSkills()[i] + "," + (int)player.getSkill().getExperience()[i]);
 			writer.newLine();
 		}
 		writer.newLine();
@@ -162,7 +162,7 @@ public class PlayerSave {
 			int skillLevel = Integer.parseInt(line[0]);
 			int experience = Integer.parseInt(line[1]);
 			player.getSkill().getSkills()[i] = skillLevel;
-			player.getSkill().getExperience()[i] = experience;
+			player.getSkill().getExperience()[i] = (int)experience;
 		}
 		reader.readLine(); // Break line.
 

@@ -14,3 +14,168 @@
 [1/1/12 1:55 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
 [1/1/12 1:55 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
 [1/1/12 1:55 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 2:20 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 2:20 PM]: Online!
+[1/1/12 2:20 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 2:20 PM]: Packets loaded.
+[1/1/12 2:20 PM]: Online!
+[1/1/12 2:20 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:20 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 2:20 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 2:20 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:20 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 2:20 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 2:21 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:21 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 2:21 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 2:21 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 2:21 PM]: Packets loaded.
+[1/1/12 2:21 PM]: Online!
+[1/1/12 2:21 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:21 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 2:21 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 2:22 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 2:22 PM]: Packets loaded.
+[1/1/12 2:22 PM]: Online!
+[1/1/12 2:22 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:22 PM]: Player(moparz:bob - 127.0.0.1) has logged in.
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 2:22 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 4 length = 7
+[1/1/12 2:22 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:22 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:22 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:22 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 4 length = 18
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:22 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 2:23 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 2:23 PM]: Packets loaded.
+[1/1/12 2:23 PM]: Online!
+[1/1/12 2:23 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:23 PM]: Player(moparz:bob - 127.0.0.1) has logged in.
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 2:23 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 4 length = 7
+[1/1/12 2:23 PM]: Unhandled packet opcode = 4 length = 6
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:23 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:23 PM]: Unhandled packet opcode = 185 length = 2
+[1/1/12 2:23 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:23 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:23 PM]: Unhandled packet opcode = 185 length = 2
+[1/1/12 2:23 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:23 PM]: Unhandled packet opcode = 185 length = 2
+[1/1/12 2:23 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 2:23 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 2:23 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 2:25 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 2:25 PM]: Packets loaded.
+[1/1/12 2:25 PM]: Online!
+[1/1/12 2:25 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:25 PM]: Player(moparz:bob - 127.0.0.1) has logged in.
+[1/1/12 2:25 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:25 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:25 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:25 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:25 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:25 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:25 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 2:25 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 2:25 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:25 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:25 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:25 PM]: Player(moparz:bob - 127.0.0.1) disconnecting.
+[1/1/12 2:25 PM]: Player(moparz:bob - 127.0.0.1) has logged out.
+[1/1/12 2:26 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:26 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 2:26 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:26 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:26 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:26 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 4 length = 11
+[1/1/12 2:26 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:26 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:26 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 2:26 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 2:32 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 2:32 PM]: Packets loaded.
+[1/1/12 2:32 PM]: Online!
+[1/1/12 2:32 PM]: Accepted Client(127.0.0.1).
+[1/1/12 2:32 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 2:32 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 2:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 2:32 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 2:32 PM]: Player(mopar:bob - 127.0.0.1) has logged out.

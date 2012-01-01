@@ -10,9 +10,9 @@ import java.nio.channels.SocketChannel;
 import java.util.HashMap;
 import java.util.Map;
 
+import tk.destrix.game.World;
 import tk.destrix.game.model.Client;
 import tk.destrix.game.model.Player;
-import tk.destrix.game.model.PlayerHandler;
 import tk.destrix.game.util.Misc;
 
 /**
@@ -171,7 +171,7 @@ public class Server implements Runnable {
 
 		// Next, perform game processing.
 		try {
-			PlayerHandler.process();
+			World.process();
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}

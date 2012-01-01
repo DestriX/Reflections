@@ -3,6 +3,7 @@ package tk.destrix.game.model;
 import java.util.Iterator;
 
 import tk.destrix.game.Position;
+import tk.destrix.game.World;
 import tk.destrix.game.util.Misc;
 import tk.destrix.net.StreamBuffer;
 
@@ -68,12 +69,12 @@ public final class PlayerUpdating {
 		}
 
 		// Update the local player list.
-		for (int i = 0; i < PlayerHandler.getPlayers().length; i++) {
+		for (int i = 0; i < World.getPlayers().length; i++) {
 			if (player.getPlayers().size() >= 255) {
 				// Player limit has been reached.
 				break;
 			}
-			Player other = PlayerHandler.getPlayers()[i];
+			Player other = World.getPlayers()[i];
 			if (other == null || other == player || other.getStage() != Client.Stage.LOGGED_IN) {
 				continue;
 			}

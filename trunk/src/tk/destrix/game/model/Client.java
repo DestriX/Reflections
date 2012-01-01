@@ -19,7 +19,7 @@ import tk.destrix.net.StreamBuffer;
  * 
  * @author blakeman8192
  */
-public abstract class Client {
+public abstract class Client extends Entity {
 
 	private final SelectionKey key;
 	private final ByteBuffer inData;
@@ -68,8 +68,8 @@ public abstract class Client {
 	 * Sends all skills to the client.
 	 */
 	public void sendSkills() {
-		for (int i = 0; i < player.getSkills().length; i++) {
-			sendSkill(i, player.getSkills()[i], player.getExperience()[i]);
+		for (int i = 0; i < player.getSkill().getSkills().length; i++) {
+			sendSkill(i, player.getSkill().getSkills()[i], player.getSkill().getExperience()[i]);
 		}
 	}
 
@@ -80,14 +80,14 @@ public abstract class Client {
 	 *            the skill ID
 	 * @param level
 	 *            the skill level
-	 * @param exp
+	 * @param experience
 	 *            the skill experience
 	 */
-	public void sendSkill(int skillID, int level, int exp) {
+	public void sendSkill(int skillID, int level, double experience) {
 		StreamBuffer.OutBuffer out = StreamBuffer.newOutBuffer(8);
 		out.writeHeader(getEncryptor(), 134);
 		out.writeByte(skillID);
-		out.writeInt(exp, StreamBuffer.ByteOrder.MIDDLE);
+		out.writeInt((int) experience, StreamBuffer.ByteOrder.MIDDLE);
 		out.writeByte(level);
 		send(out.getBuffer());
 	}

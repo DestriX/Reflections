@@ -5,6 +5,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 import tk.destrix.game.Position;
+import tk.destrix.game.World;
+import tk.destrix.game.content.skill.Skill;
 import tk.destrix.game.util.Misc;
 import tk.destrix.game.util.MovementHandler;
 import tk.destrix.game.util.PlayerSave;
@@ -21,6 +23,7 @@ public class Player extends Client {
 	private final List<Player> players = new LinkedList<Player>();
 	private final List<Npc> npcs = new LinkedList<Npc>();
 	private MovementHandler movementHandler = new MovementHandler(this);
+	private Skill skill = new Skill(this);
 	private Position currentRegion = new Position(0, 0, 0);
 	private int primaryDirection = -1;
 	private int secondaryDirection = -1;
@@ -34,8 +37,6 @@ public class Player extends Client {
 	private final int[] colors = new int[5];
 	private final int[] inventory = new int[28];
 	private final int[] inventoryN = new int[28];
-	private final int[] skills = new int[22];
-	private final int[] experience = new int[22];
 	private final int[] equipment = new int[14];
 	private final int[] equipmentN = new int[14];
 
@@ -76,12 +77,12 @@ public class Player extends Client {
 			inventory[i] = -1;
 		}
 		// Set all skills to 1.
-		for (int i = 0; i < skills.length; i++) {
+		for (int i = 0; i < getSkill().getSkills().length; i++) {
 			if (i == 3) { // Hitpoints.
-				skills[i] = 10;
-				experience[i] = 1154;
+				getSkill().getSkills()[i] = 10;
+				getSkill().getExperience()[i] = 1154;
 			} else {
-				skills[i] = 1;
+				getSkill().getSkills()[i] = 1;
 			}
 		}
 		// Set all equipment to empty.
@@ -106,45 +107,6 @@ public class Player extends Client {
 	}
 
 	/**
-	 * Sets the skill level.
-	 * 
-	 * @param skillID
-	 *            the skill ID
-	 * @param level
-	 *            the level
-	 */
-	public void setSkill(int skillID, int level) {
-		skills[skillID] = level;
-		sendSkill(skillID, skills[skillID], experience[skillID]);
-	}
-
-	/**
-	 * Adds skill experience.
-	 * 
-	 * @param skillID
-	 *            the skill ID
-	 * @param exp
-	 *            the experience to add
-	 */
-	public void addSkillExp(int skillID, int exp) {
-		experience[skillID] += exp;
-		sendSkill(skillID, skills[skillID], experience[skillID]);
-	}
-
-	/**
-	 * Removes skill experience.
-	 * 
-	 * @param skillID
-	 *            the skill ID
-	 * @param exp
-	 *            the experience to add
-	 */
-	public void removeSkillExp(int skillID, int exp) {
-		experience[skillID] -= exp;
-		sendSkill(skillID, skills[skillID], experience[skillID]);
-	}
-
-	/**
 	 * Handles a player command.
 	 * 
 	 * @param keyword
@@ -154,16 +116,16 @@ public class Player extends Client {
 	 */
 	public void handleCommand(String keyword, String[] args) {
 		if (keyword.equals("master")) {
-			for (int i = 0; i < skills.length; i++) {
-				skills[i] = 99;
-				experience[i] = 200000000;
+			for (int i = 0; i < getSkill().getSkills().length; i++) {
+				getSkill().getSkills()[i] = 99;
+				getSkill().getExperience()[i] = 200000000;
 			}
 			sendSkills();
 		}
 		if (keyword.equals("noob")) {
-			for (int i = 0; i < skills.length; i++) {
-				skills[i] = 1;
-				experience[i] = 0;
+			for (int i = 0; i < getSkill().getSkills().length; i++) {
+				getSkill().getSkills()[i] = 1;
+				getSkill().getExperience()[i] = 0;
 			}
 			sendSkills();
 		}
@@ -428,7 +390,7 @@ public class Player extends Client {
 		int response = Misc.LOGIN_RESPONSE_OK;
 
 		// Check if the player is already logged in.
-		for (Player player : PlayerHandler.getPlayers()) {
+		for (Player player : World.getPlayers()) {
 			if (player == null) {
 				continue;
 			}
@@ -453,7 +415,7 @@ public class Player extends Client {
 			return;
 		}
 
-		PlayerHandler.register(this);
+		World.register(this);
 		sendMapRegion();
 		sendInventory();
 		sendSkills();
@@ -480,7 +442,7 @@ public class Player extends Client {
 
 	@Override
 	public void logout() throws Exception {
-		PlayerHandler.unregister(this);
+		World.unregister(this);
 		setStage(Client.Stage.LOGGED_OUT);
 
 		System.out.println(this + " has logged out.");
@@ -708,14 +670,6 @@ public class Player extends Client {
 		return inventoryN;
 	}
 
-	public int[] getSkills() {
-		return skills;
-	}
-
-	public int[] getExperience() {
-		return experience;
-	}
-
 	public int[] getEquipment() {
 		return equipment;
 	}
@@ -746,6 +700,14 @@ public class Player extends Client {
 
 	public List<Npc> getNpcs() {
 		return npcs;
+	}
+
+	public Skill getSkill() {
+		return skill;
+	}
+
+	public void setSkill(Skill skill) {
+		this.skill = skill;
 	}
 
 }

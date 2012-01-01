@@ -3,6 +3,7 @@ package tk.destrix.game.model;
 import java.util.Iterator;
 
 import tk.destrix.game.Position;
+import tk.destrix.game.World;
 import tk.destrix.game.util.Misc;
 import tk.destrix.net.StreamBuffer;
 
@@ -46,8 +47,8 @@ public class NpcUpdating {
 		}
 
 		// Update the local NPC list itself.
-		for (int i = 0; i < PlayerHandler.getNpcs().length; i++) {
-			Npc npc = PlayerHandler.getNpcs()[i];
+		for (int i = 0; i < World.getNpcs().length; i++) {
+			Npc npc = World.getNpcs()[i];
 			if (npc == null || player.getNpcs().contains(npc) || !npc.isVisible()) {
 				continue;
 			}

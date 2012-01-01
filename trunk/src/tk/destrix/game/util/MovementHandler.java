@@ -53,7 +53,7 @@ public class MovementHandler {
 		int deltaY = player.getPosition().getY() - player.getCurrentRegion().getRegionY() * 8;
 		if (deltaX < 16 || deltaX >= 88 || deltaY < 16 || deltaY > 88) {
 			if (!(player instanceof Npc)) {
-				player.sendMapRegion();
+				player.getActionSender().sendMapRegion();
 			}
 		}
 	}

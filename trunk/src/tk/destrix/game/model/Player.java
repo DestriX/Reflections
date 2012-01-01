@@ -10,6 +10,7 @@ import tk.destrix.game.content.skill.Skill;
 import tk.destrix.game.util.Misc;
 import tk.destrix.game.util.MovementHandler;
 import tk.destrix.game.util.PlayerSave;
+import tk.destrix.net.ActionSender;
 import tk.destrix.net.StreamBuffer;
 
 /**
@@ -24,6 +25,7 @@ public class Player extends Client {
 	private final List<Npc> npcs = new LinkedList<Npc>();
 	private MovementHandler movementHandler = new MovementHandler(this);
 	private Skill skill = new Skill(this);
+	private ActionSender actionSender = new ActionSender(this);
 	private Position currentRegion = new Position(0, 0, 0);
 	private int primaryDirection = -1;
 	private int secondaryDirection = -1;
@@ -120,14 +122,14 @@ public class Player extends Client {
 				getSkill().getSkills()[i] = 99;
 				getSkill().getExperience()[i] = 200000000;
 			}
-			sendSkills();
+			getActionSender().sendSkills();
 		}
 		if (keyword.equals("noob")) {
 			for (int i = 0; i < getSkill().getSkills().length; i++) {
 				getSkill().getSkills()[i] = 1;
 				getSkill().getExperience()[i] = 0;
 			}
-			sendSkills();
+			getActionSender().sendSkills();
 		}
 		if (keyword.equals("empty")) {
 			emptyInventory();
@@ -139,7 +141,7 @@ public class Player extends Client {
 				amount = Integer.parseInt(args[1]);
 			}
 			addInventoryItem(id, amount);
-			sendInventory();
+			getActionSender().sendInventory();
 		}
 		if (keyword.equals("tele")) {
 			int x = Integer.parseInt(args[0]);
@@ -147,7 +149,7 @@ public class Player extends Client {
 			teleport(new Position(x, y, getPosition().getZ()));
 		}
 		if (keyword.equals("mypos")) {
-			sendMessage("You are at: " + getPosition());
+			getActionSender().sendMessage("You are at: " + getPosition());
 		}
 	}
 
@@ -176,8 +178,8 @@ public class Player extends Client {
 				// And equip the new item stack.
 				equipment[eSlot] = id;
 				equipmentN[eSlot] = amount;
-				sendEquipment(eSlot, id, amount);
-				sendInventory();
+				getActionSender().sendEquipment(eSlot, id, amount);
+				getActionSender().sendInventory();
 				setAppearanceUpdateRequired(true);
 			}
 		} else {
@@ -194,8 +196,8 @@ public class Player extends Client {
 			// And equip the new item.
 			equipment[eSlot] = id;
 			equipmentN[eSlot] = amount;
-			sendEquipment(eSlot, id, amount);
-			sendInventory();
+			getActionSender().sendEquipment(eSlot, id, amount);
+			getActionSender().sendInventory();
 			setAppearanceUpdateRequired(true);
 		}
 	}
@@ -218,8 +220,8 @@ public class Player extends Client {
 		if (addInventoryItem(id, amount)) {
 			equipment[slot] = -1;
 			equipmentN[slot] = 0;
-			sendEquipment(slot, -1, 0);
-			sendInventory();
+			getActionSender().sendEquipment(slot, -1, 0);
+			getActionSender().sendInventory();
 			setAppearanceUpdateRequired(true);
 		}
 	}
@@ -232,7 +234,7 @@ public class Player extends Client {
 			inventory[i] = -1;
 			inventoryN[i] = 0;
 		}
-		sendInventory();
+		getActionSender().sendInventory();
 	}
 
 	/**
@@ -271,7 +273,7 @@ public class Player extends Client {
 				}
 				if (!added) {
 					// No empty slot.
-					sendMessage("You do not have enough inventory space.");
+					getActionSender().sendMessage("You do not have enough inventory space.");
 				}
 			}
 		} else {
@@ -286,7 +288,7 @@ public class Player extends Client {
 			}
 			if (amountAdded != amount) {
 				// We couldn't add all of them.
-				sendMessage("You do not have enough inventory space.");
+				getActionSender().sendMessage("You do not have enough inventory space.");
 			} else {
 				// We added the amount that we wanted.
 				return true;
@@ -369,7 +371,7 @@ public class Player extends Client {
 		getPosition().setAs(position);
 		setResetMovementQueue(true);
 		setNeedsPlacement(true);
-		sendMapRegion();
+		getActionSender().sendMapRegion();
 	}
 
 	/**
@@ -409,33 +411,15 @@ public class Player extends Client {
 		resp.writeByte(response);
 		resp.writeByte(getStaffRights());
 		resp.writeByte(0);
-		send(resp.getBuffer());
+		getActionSender().send(resp.getBuffer());
 		if (response != 2) {
 			disconnect();
 			return;
 		}
 
 		World.register(this);
-		sendMapRegion();
-		sendInventory();
-		sendSkills();
-		sendEquipment();
 		setUpdateRequired(true);
 		setAppearanceUpdateRequired(true);
-		sendSidebarInterface(1, 3917);
-		sendSidebarInterface(2, 638);
-		sendSidebarInterface(3, 3213);
-		sendSidebarInterface(4, 1644);
-		sendSidebarInterface(5, 5608);
-		sendSidebarInterface(6, 1151);
-		sendSidebarInterface(8, 5065);
-		sendSidebarInterface(9, 5715);
-		sendSidebarInterface(10, 2449);
-		sendSidebarInterface(11, 4445);
-		sendSidebarInterface(12, 147);
-		sendSidebarInterface(13, 6299);
-		sendSidebarInterface(0, 2423);
-		sendMessage("Welcome to RuneSource!");
 
 		System.out.println(this + " has logged in.");
 	}
@@ -708,6 +692,14 @@ public class Player extends Client {
 
 	public void setSkill(Skill skill) {
 		this.skill = skill;
+	}
+
+	public ActionSender getActionSender() {
+		return actionSender;
+	}
+
+	public void setActionSender(ActionSender actionSender) {
+		this.actionSender = actionSender;
 	}
 
 }

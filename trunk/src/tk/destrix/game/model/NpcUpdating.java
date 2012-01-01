@@ -71,7 +71,7 @@ public class NpcUpdating {
 
 		// Ship the packet out to the client.
 		out.finishVariableShortPacketHeader();
-		player.send(out.getBuffer());
+		player.getActionSender().send(out.getBuffer());
 	}
 
 	/**

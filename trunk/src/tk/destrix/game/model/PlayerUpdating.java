@@ -96,7 +96,7 @@ public final class PlayerUpdating {
 
 		// Finish the packet and send it.
 		out.finishVariableShortPacketHeader();
-		player.send(out.getBuffer());
+		player.getActionSender().send(out.getBuffer());
 	}
 
 	/**

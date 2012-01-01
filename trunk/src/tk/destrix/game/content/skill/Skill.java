@@ -30,7 +30,7 @@ public class Skill {
 	 */
 	public void setSkill(int skillID, int level) {
 		skills[skillID] = level;
-		player.sendSkill(skillID, skills[skillID], experience[skillID]);
+		player.getActionSender().sendSkill(skillID, skills[skillID], experience[skillID]);
 	}
 
 	/**
@@ -43,7 +43,7 @@ public class Skill {
 	 */
 	public void addSkillExp(int skillID, int exp) {
 		experience[skillID] += exp;
-		player.sendSkill(skillID, skills[skillID], experience[skillID]);
+		player.getActionSender().sendSkill(skillID, skills[skillID], experience[skillID]);
 	}
 
 	/**
@@ -56,7 +56,7 @@ public class Skill {
 	 */
 	public void removeSkillExp(int skillID, int exp) {
 		experience[skillID] -= exp;
-		player.sendSkill(skillID, skills[skillID], experience[skillID]);
+		player.getActionSender().sendSkill(skillID, skills[skillID], experience[skillID]);
 	}
 
 	public int[] getSkills() {

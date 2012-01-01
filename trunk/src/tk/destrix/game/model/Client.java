@@ -1,6 +1,5 @@
 package tk.destrix.game.model;
 
-import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.SocketChannel;
@@ -65,133 +64,6 @@ public abstract class Client extends Entity {
 	public abstract void logout() throws Exception;
 
 	/**
-	 * Sends all skills to the client.
-	 */
-	public void sendSkills() {
-		for (int i = 0; i < player.getSkill().getSkills().length; i++) {
-			sendSkill(i, player.getSkill().getSkills()[i], player.getSkill().getExperience()[i]);
-		}
-	}
-
-	/**
-	 * Sends the skill to the client.
-	 * 
-	 * @param skillID
-	 *            the skill ID
-	 * @param level
-	 *            the skill level
-	 * @param experience
-	 *            the skill experience
-	 */
-	public void sendSkill(int skillID, int level, double experience) {
-		StreamBuffer.OutBuffer out = StreamBuffer.newOutBuffer(8);
-		out.writeHeader(getEncryptor(), 134);
-		out.writeByte(skillID);
-		out.writeInt((int) experience, StreamBuffer.ByteOrder.MIDDLE);
-		out.writeByte(level);
-		send(out.getBuffer());
-	}
-
-	/**
-	 * Sends all equipment.
-	 */
-	public void sendEquipment() {
-		for (int i = 0; i < player.getEquipment().length; i++) {
-			sendEquipment(i, player.getEquipment()[i], player.getEquipmentN()[i]);
-		}
-	}
-
-	/**
-	 * Sends the equipment to the client.
-	 * 
-	 * @param slot
-	 *            the equipment slot
-	 * @param itemID
-	 *            the item ID
-	 * @param itemAmount
-	 *            the item amount
-	 */
-	public void sendEquipment(int slot, int itemID, int itemAmount) {
-		StreamBuffer.OutBuffer out = StreamBuffer.newOutBuffer(32);
-		out.writeVariableShortPacketHeader(getEncryptor(), 34);
-		out.writeShort(1688);
-		out.writeByte(slot);
-		out.writeShort(itemID + 1);
-		if (itemAmount > 254) {
-			out.writeByte(255);
-			out.writeShort(itemAmount);
-		} else {
-			out.writeByte(itemAmount);
-		}
-		out.finishVariableShortPacketHeader();
-		send(out.getBuffer());
-	}
-
-	/**
-	 * Sends the current full inventory.
-	 */
-	public void sendInventory() {
-		StreamBuffer.OutBuffer out = StreamBuffer.newOutBuffer(256);
-		out.writeVariableShortPacketHeader(getEncryptor(), 53);
-		out.writeShort(3214);
-		out.writeShort(player.getInventory().length);
-		for (int i = 0; i < player.getInventory().length; i++) {
-			if (player.getInventoryN()[i] > 254) {
-				out.writeByte(255);
-				out.writeInt(player.getInventoryN()[i], StreamBuffer.ByteOrder.INVERSE_MIDDLE);
-			} else {
-				out.writeByte(player.getInventoryN()[i]);
-			}
-			out.writeShort(player.getInventory()[i] + 1, StreamBuffer.ValueType.A, StreamBuffer.ByteOrder.LITTLE);
-		}
-		out.finishVariableShortPacketHeader();
-		send(out.getBuffer());
-	}
-
-	/**
-	 * Sends a message to the players chat box.
-	 * 
-	 * @param message
-	 *            the message
-	 */
-	public void sendMessage(String message) {
-		StreamBuffer.OutBuffer out = StreamBuffer.newOutBuffer(message.length() + 3);
-		out.writeVariablePacketHeader(getEncryptor(), 253);
-		out.writeString(message);
-		out.finishVariablePacketHeader();
-		send(out.getBuffer());
-	}
-
-	/**
-	 * Sends a sidebar interface.
-	 * 
-	 * @param menuId
-	 *            the interface slot
-	 * @param form
-	 *            the interface ID
-	 */
-	public void sendSidebarInterface(int menuId, int form) {
-		StreamBuffer.OutBuffer out = StreamBuffer.newOutBuffer(4);
-		out.writeHeader(getEncryptor(), 71);
-		out.writeShort(form);
-		out.writeByte(menuId, StreamBuffer.ValueType.A);
-		send(out.getBuffer());
-	}
-
-	/**
-	 * Refreshes the map region.
-	 */
-	public void sendMapRegion() {
-		player.getCurrentRegion().setAs(player.getPosition());
-		player.setNeedsPlacement(true);
-		StreamBuffer.OutBuffer out = StreamBuffer.newOutBuffer(5);
-		out.writeHeader(getEncryptor(), 73);
-		out.writeShort(player.getPosition().getRegionX() + 6, StreamBuffer.ValueType.A);
-		out.writeShort(player.getPosition().getRegionY() + 6);
-		send(out.getBuffer());
-	}
-
-	/**
 	 * Disconnects the client.
 	 */
 	public void disconnect() {
@@ -217,7 +89,7 @@ public abstract class Client extends Entity {
 	private void handleButton(int buttonId) {
 		switch (buttonId) {
 		case 9154:
-			sendLogout();
+			player.getActionSender().sendLogout();
 			break;
 		case 153:
 			player.getMovementHandler().setRunToggled(true);
@@ -229,15 +101,6 @@ public abstract class Client extends Entity {
 			System.out.println("Unhandled button: " + buttonId);
 			break;
 		}
-	}
-
-	/**
-	 * Sends a packet that tells the client to log out.
-	 */
-	public void sendLogout() {
-		StreamBuffer.OutBuffer out = StreamBuffer.newOutBuffer(1);
-		out.writeHeader(getEncryptor(), 109);
-		send(out.getBuffer());
 	}
 
 	/**
@@ -386,26 +249,6 @@ public abstract class Client extends Entity {
 	}
 
 	/**
-	 * Sends the buffer to the socket.
-	 * 
-	 * @param buffer
-	 *            the buffer
-	 * @throws IOException
-	 */
-	public void send(ByteBuffer buffer) {
-		// Prepare the buffer for writing.
-		buffer.flip();
-
-		try {
-			// ...and write it!
-			getSocketChannel().write(buffer);
-		} catch (IOException ex) {
-			ex.printStackTrace();
-			disconnect();
-		}
-	}
-
-	/**
 	 * Handles the login process of the client.
 	 */
 	private void handleLogin() throws Exception {
@@ -430,7 +273,7 @@ public abstract class Client extends Entity {
 			out.writeLong(0); // First 8 bytes are ignored by the client.
 			out.writeByte(0); // The response opcode, 0 for logging in.
 			out.writeLong(new SecureRandom().nextLong()); // SSK.
-			send(out.getBuffer());
+			player.getActionSender().send(out.getBuffer());
 
 			setStage(Stage.LOGGING_IN);
 			break;

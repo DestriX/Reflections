@@ -1,0 +1,19 @@
+@echo off
+@title [%date% %time%] RuneSource Compiler
+
+if not exist bin mkdir bin
+cd bin
+del /f /q *
+cd ../
+
+:compileserver
+echo [%date% %time%]: Compiling server...
+javac -d bin src/*.java
+
+:compileplugins
+echo [%date% %time%]: Compiling plugins...
+javac -cp bin -d bin plugins/*.java
+
+
+echo [%date% %time%]: Done!
+pause

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/runesource/!svn/ver/74/trunk/RuneSource
+END
+plugins.ini
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/runesource/!svn/ver/72/trunk/RuneSource/plugins.ini
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/runesource/!svn/ver/32/trunk/RuneSource/LICENSE.txt
+END
+README.htm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/runesource/!svn/ver/37/trunk/RuneSource/README.htm
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/runesource/!svn/ver/72/trunk/RuneSource/run.bat
+END
+compile.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/runesource/!svn/ver/73/trunk/RuneSource/compile.bat
+END

@@ -8,10 +8,10 @@ import tk.destrix.game.Position;
 import tk.destrix.game.World;
 import tk.destrix.game.content.skill.Skill;
 import tk.destrix.game.net.ActionSender;
+import tk.destrix.game.net.StreamBuffer;
 import tk.destrix.game.util.Misc;
 import tk.destrix.game.util.MovementHandler;
 import tk.destrix.game.util.PlayerSave;
-import tk.destrix.net.StreamBuffer;
 
 /**
  * Represents a logged-in player.
@@ -48,7 +48,10 @@ public class Player extends Client {
 	private boolean chatUpdateRequired = false;
 	private boolean needsPlacement = false;
 	private boolean resetMovementQueue = false;
-
+	
+	// Screen variables.
+	private boolean screenFocus;
+	
 	/**
 	 * Creates a new Player.
 	 * 
@@ -700,6 +703,14 @@ public class Player extends Client {
 
 	public void setActionSender(ActionSender actionSender) {
 		this.actionSender = actionSender;
+	}
+
+	public boolean isScreenFocus() {
+		return screenFocus;
+	}
+
+	public void setScreenFocus(boolean screenFocus) {
+		this.screenFocus = screenFocus;
 	}
 
 }

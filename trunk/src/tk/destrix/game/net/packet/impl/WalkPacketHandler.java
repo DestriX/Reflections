@@ -3,9 +3,9 @@ package tk.destrix.game.net.packet.impl;
 import tk.destrix.game.Position;
 import tk.destrix.game.model.Client;
 import tk.destrix.game.model.Player;
+import tk.destrix.game.net.StreamBuffer;
 import tk.destrix.game.net.packet.PacketActor;
 import tk.destrix.game.net.packet.PacketManager.PacketHandler;
-import tk.destrix.net.StreamBuffer;
 
 public class WalkPacketHandler implements PacketHandler {
 

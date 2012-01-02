@@ -179,3 +179,1455 @@
 [1/1/12 2:32 PM]: Unhandled packet opcode = 241 length = 4
 [1/1/12 2:32 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
 [1/1/12 2:32 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 6:30 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 6:30 PM]: Packets loaded.
+[1/1/12 6:30 PM]: Online!
+[1/1/12 6:30 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:30 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:30 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Player(mopar1:bob - 127.0.0.1) timed out.
+[1/1/12 6:30 PM]: Player(mopar1:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:30 PM]: Player(mopar1:bob - 127.0.0.1) has logged out.
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:30 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:30 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:30 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:30 PM]: Player(mopar1:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:30 PM]: Player(mopar1:bob - 127.0.0.1) has logged out.
+[1/1/12 6:30 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:31 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 6:31 PM]: Packets loaded.
+[1/1/12 6:31 PM]: Online!
+[1/1/12 6:31 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:31 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:31 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:31 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:31 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:31 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:31 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 6:31 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:32 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:32 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:32 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 6:38 PM]: Packets loaded.
+[1/1/12 6:38 PM]: Online!
+[1/1/12 6:38 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:38 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:38 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:38 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:38 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:38 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:38 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:38 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:38 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:38 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:38 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Player(mopar1:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:39 PM]: Player(mopar1:bob - 127.0.0.1) has logged out.
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:39 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 6:39 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:39 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:39 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:39 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 6:39 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:39 PM]: Player(mopar1:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:39 PM]: Player(mopar1:bob - 127.0.0.1) has logged out.
+[1/1/12 6:40 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:40 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 6:40 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:40 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:40 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:40 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:40 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:40 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:40 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:40 PM]: Player(mopar1:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:40 PM]: Player(mopar1:bob - 127.0.0.1) has logged out.
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:40 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:41 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:41 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:42 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:43 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:44 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:45 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:46 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:46 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:46 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:47 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:47 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:48 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 226 length = 17
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 77 length = 12
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 226 length = 15
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:49 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 202 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:50 PM]: Unhandled packet opcode = 0 length = 0
+[1/1/12 6:50 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:50 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:50 PM]: Unhandled packet opcode = 77 length = 14
+[1/1/12 6:50 PM]: Unhandled packet opcode = 241 length = 4
+[1/1/12 6:50 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 6:50 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 6:53 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 6:53 PM]: Packets loaded.
+[1/1/12 6:53 PM]: Online!
+[1/1/12 6:53 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:53 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:53 PM]: Unhandled packet opcode = 210 length = 4
+[1/1/12 6:53 PM]: Unhandled packet opcode = 121 length = 0
+[1/1/12 6:53 PM]: Unhandled packet opcode = 3 length = 1
+[1/1/12 6:58 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 6:58 PM]: Packets loaded.
+[1/1/12 6:58 PM]: Online!
+[1/1/12 6:58 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:58 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 6:58 PM]: Accepted Client(127.0.0.1).
+[1/1/12 6:58 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 6:58 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 6:59 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 6:59 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 6:59 PM]: Packets loaded.
+[1/1/12 6:59 PM]: Online!
+[1/1/12 7:00 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:00 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:00 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 7:00 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 7:00 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 7:00 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 7:00 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 7:00 PM]: Unhandled packet opcode = 78 length = 0
+[1/1/12 7:01 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:02 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 7:02 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:02 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:02 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:05 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:05 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 7:05 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:12 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:12 PM]: Packets loaded.
+[1/1/12 7:12 PM]: Online!
+[1/1/12 7:12 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:12 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:12 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:12 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 7:13 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:13 PM]: Packets loaded.
+[1/1/12 7:13 PM]: Online!
+[1/1/12 7:13 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:13 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:13 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:13 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 7:13 PM]: mopar1, focus_status: false
+[1/1/12 7:13 PM]: mopar, focus_status: false
+[1/1/12 7:13 PM]: mopar1, focus_status: true
+[1/1/12 7:13 PM]: mopar, focus_status: true
+[1/1/12 7:13 PM]: mopar1, focus_status: false
+[1/1/12 7:13 PM]: mopar, focus_status: false
+[1/1/12 7:13 PM]: mopar1, focus_status: true
+[1/1/12 7:13 PM]: mopar, focus_status: true
+[1/1/12 7:13 PM]: mopar1, focus_status: false
+[1/1/12 7:14 PM]: mopar, focus_status: false
+[1/1/12 7:14 PM]: mopar1, focus_status: true
+[1/1/12 7:14 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:14 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:14 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:14 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:14 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:14 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:14 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:14 PM]: mopar1, focus_status: false
+[1/1/12 7:14 PM]: mopar1, focus_status: true
+[1/1/12 7:14 PM]: mopar1, focus_status: false
+[1/1/12 7:14 PM]: mopar1, focus_status: true
+[1/1/12 7:14 PM]: mopar1, focus_status: false
+[1/1/12 7:15 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:15 PM]: mopar: idle logout
+[1/1/12 7:15 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 7:15 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:16 PM]: Player(mopar1:bob - 127.0.0.1) has logged out.
+[1/1/12 7:16 PM]: mopar1: idle logout
+[1/1/12 7:16 PM]: Player(mopar1:bob - 127.0.0.1) disconnecting.
+[1/1/12 7:16 PM]: Player(mopar1:bob - 127.0.0.1) has logged out.
+[1/1/12 7:18 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:18 PM]: Packets loaded.
+[1/1/12 7:18 PM]: Online!
+[1/1/12 7:18 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:18 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:18 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 7:18 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:18 PM]: mopar, focus_status: false
+[1/1/12 7:18 PM]: mopar1, focus_status: false
+[1/1/12 7:18 PM]: mopar, focus_status: true
+[1/1/12 7:18 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:18 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:18 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:18 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:18 PM]: Unhandled packet opcode = 86 length = 4
+[1/1/12 7:18 PM]: mopar, focus_status: false
+[1/1/12 7:18 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:18 PM]: Packets loaded.
+[1/1/12 7:18 PM]: Online!
+[1/1/12 7:19 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:19 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:19 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:19 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 7:19 PM]: mopar1, focus_status: false
+[1/1/12 7:19 PM]: mopar1, focus_status: true
+[1/1/12 7:19 PM]: mopar, focus_status: false
+[1/1/12 7:19 PM]: Player(mopar1:bob - 127.0.0.1) disconnecting.
+[1/1/12 7:19 PM]: Player(mopar1:bob - 127.0.0.1) has logged out.
+[1/1/12 7:19 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:19 PM]: Packets loaded.
+[1/1/12 7:19 PM]: Online!
+[1/1/12 7:20 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:20 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:20 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 7:20 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:21 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:21 PM]: Packets loaded.
+[1/1/12 7:21 PM]: Online!
+[1/1/12 7:21 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:21 PM]: Player(mopar1:bob - 127.0.0.1) has logged in.
+[1/1/12 7:21 PM]: mopar1: moved camera:178, 2039.
+[1/1/12 7:21 PM]: mopar1: moved camera:178, 167.
+[1/1/12 7:21 PM]: mopar1: moved camera:178, 167.
+[1/1/12 7:21 PM]: mopar1: moved camera:228, 167.
+[1/1/12 7:21 PM]: mopar1: moved camera:228, 167.
+[1/1/12 7:21 PM]: mopar1: moved camera:243, 167.
+[1/1/12 7:21 PM]: mopar1: moved camera:243, 167.
+[1/1/12 7:21 PM]: mopar1: moved camera:258, 167.
+[1/1/12 7:21 PM]: mopar1: moved camera:258, 167.
+[1/1/12 7:21 PM]: mopar1: moved camera:258, 379.
+[1/1/12 7:21 PM]: mopar1: moved camera:258, 519.
+[1/1/12 7:21 PM]: mopar1: moved camera:258, 519.
+[1/1/12 7:21 PM]: mopar1: moved camera:161, 519.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 519.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 519.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 519.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 731.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 951.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1171.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1391.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1611.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1831.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 3.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 223.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 443.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 663.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 883.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1103.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1323.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1543.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1763.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1983.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 155.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 375.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 595.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 815.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1035.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1255.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1475.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1695.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1915.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 87.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 249.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 249.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 461.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 681.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 622.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 402.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 421.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 399.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:225, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:325, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:286, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:186, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:205, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:305, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:371, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:271, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:238, 372.
+[1/1/12 7:21 PM]: mopar1: moved camera:335, 584.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 804.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1024.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1244.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1464.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1684.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1904.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 76.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 296.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 516.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 736.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 956.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1176.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1396.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1616.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 1836.
+[1/1/12 7:21 PM]: mopar1: moved camera:383, 8.
+[1/1/12 7:21 PM]: mopar1: moved camera:311, 228.
+[1/1/12 7:21 PM]: mopar1: moved camera:211, 448.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 668.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 888.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1108.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1328.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1548.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1768.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 1988.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 160.
+[1/1/12 7:21 PM]: mopar1: moved camera:128, 380.
+[1/1/12 7:22 PM]: mopar1: moved camera:128, 600.
+[1/1/12 7:22 PM]: mopar1: moved camera:128, 820.
+[1/1/12 7:22 PM]: mopar1: moved camera:128, 1040.
+[1/1/12 7:22 PM]: mopar1: moved camera:128, 1180.
+[1/1/12 7:22 PM]: mopar1, focus_status: false
+[1/1/12 7:28 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:28 PM]: Packets loaded.
+[1/1/12 7:28 PM]: Online!
+[1/1/12 7:28 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:28 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:28 PM]: mopar, focus_status: false
+[1/1/12 7:28 PM]: mopar, focus_status: true
+[1/1/12 7:28 PM]: mopar, focus_status: false
+[1/1/12 7:29 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:29 PM]: mopar: idle logout
+[1/1/12 7:30 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 7:30 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 7:32 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:32 PM]: Packets loaded.
+[1/1/12 7:32 PM]: Online!
+[1/1/12 7:32 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:32 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:33 PM]: Unhandled packet opcode = 36 length = 4
+[1/1/12 7:33 PM]: mopar, focus_status: false
+[1/1/12 7:33 PM]: mopar, focus_status: true
+[1/1/12 7:33 PM]: mopar, focus_status: false
+[1/1/12 7:34 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:34 PM]: Packets loaded.
+[1/1/12 7:34 PM]: Online!
+[1/1/12 7:34 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:34 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:34 PM]: Unhandled packet opcode = 36 length = 4
+[1/1/12 7:34 PM]: mopar, focus_status: false
+[1/1/12 7:35 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 7:35 PM]: Packets loaded.
+[1/1/12 7:35 PM]: Online!
+[1/1/12 7:35 PM]: Accepted Client(127.0.0.1).
+[1/1/12 7:35 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 7:35 PM]: mopar, focus_status: false
+[1/1/12 8:00 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:00 PM]: Packets loaded.
+[1/1/12 8:01 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:01 PM]: Packets loaded.
+[1/1/12 8:01 PM]: Online!
+[1/1/12 8:01 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:01 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:01 PM]: Unhandled packet opcode = 103 length = 12
+[1/1/12 8:01 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 8:01 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 8:04 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:04 PM]: Packets loaded.
+[1/1/12 8:04 PM]: Online!
+[1/1/12 8:04 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:04 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:04 PM]: mopar, focus_status: false
+[1/1/12 8:05 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:05 PM]: Packets loaded.
+[1/1/12 8:05 PM]: Online!
+[1/1/12 8:05 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:05 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:05 PM]: mopar, focus_status: false
+[1/1/12 8:05 PM]: mopar, focus_status: true
+[1/1/12 8:05 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 8:05 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 8:05 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:05 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:05 PM]: mopar, focus_status: false
+[1/1/12 8:05 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:05 PM]: Packets loaded.
+[1/1/12 8:05 PM]: Online!
+[1/1/12 8:05 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:05 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:05 PM]: mopar, focus_status: false
+[1/1/12 8:06 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:06 PM]: Packets loaded.
+[1/1/12 8:06 PM]: Online!
+[1/1/12 8:06 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:06 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:06 PM]: mopar, focus_status: false
+[1/1/12 8:07 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 8:07 PM]: mopar: idle logout
+[1/1/12 8:08 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 8:08 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 8:08 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:08 PM]: Packets loaded.
+[1/1/12 8:08 PM]: Online!
+[1/1/12 8:08 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:08 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:08 PM]: mopar, focus_status: false
+[1/1/12 8:09 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:09 PM]: Packets loaded.
+[1/1/12 8:09 PM]: Online!
+[1/1/12 8:09 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:09 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:09 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 8:09 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 8:10 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:10 PM]: Packets loaded.
+[1/1/12 8:10 PM]: Online!
+[1/1/12 8:10 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:10 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:10 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 8:10 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 8:10 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:10 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:10 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 8:10 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 8:11 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:11 PM]: Packets loaded.
+[1/1/12 8:11 PM]: Online!
+[1/1/12 8:11 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:11 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:11 PM]: Player(mopar:bob - 127.0.0.1) disconnecting.
+[1/1/12 8:11 PM]: Player(mopar:bob - 127.0.0.1) has logged out.
+[1/1/12 8:11 PM]: Starting RuneSource on localhost/127.0.0.1:43594...
+[1/1/12 8:11 PM]: Packets loaded.
+[1/1/12 8:11 PM]: Online!
+[1/1/12 8:11 PM]: Accepted Client(127.0.0.1).
+[1/1/12 8:11 PM]: Player(mopar:bob - 127.0.0.1) has logged in.
+[1/1/12 8:11 PM]: mopar, focus_status: false

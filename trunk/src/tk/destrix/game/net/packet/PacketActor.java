@@ -1,6 +1,6 @@
 package tk.destrix.game.net.packet;
 
-import tk.destrix.net.StreamBuffer;
+import tk.destrix.game.net.StreamBuffer;
 
 public class PacketActor {
 	

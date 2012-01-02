@@ -4,8 +4,8 @@ import java.util.Iterator;
 
 import tk.destrix.game.Position;
 import tk.destrix.game.World;
+import tk.destrix.game.net.StreamBuffer;
 import tk.destrix.game.util.Misc;
-import tk.destrix.net.StreamBuffer;
 
 /**
  * Provides static utility methods for updating NPCs.
@@ -33,13 +33,21 @@ public class NpcUpdating {
 		out.writeBits(8, player.getNpcs().size());
 		for (Iterator<Npc> i = player.getNpcs().iterator(); i.hasNext();) {
 			Npc npc = i.next();
-			if (npc.getPosition().isViewableFrom(player.getPosition()) && npc.isVisible()) {
-				NpcUpdating.updateNpcMovement(out, npc);
-				if (npc.isUpdateRequired()) {
-					NpcUpdating.updateState(block, npc);
+			if (npc.getPosition().getZ() == player.getPosition().getZ()) {
+				if (npc.getPosition().isViewableFrom(player.getPosition())
+						&& npc.isVisible()) {
+					NpcUpdating.updateNpcMovement(out, npc);
+					if (npc.isUpdateRequired()) {
+						NpcUpdating.updateState(block, npc);
+					}
+				} else {
+					// Remove the NPC from the local list.
+					out.writeBit(true);
+					out.writeBits(2, 3);
+					i.remove();
 				}
 			} else {
-				// Remove the NPC from the local list.
+				// if not remove the npc
 				out.writeBit(true);
 				out.writeBits(2, 3);
 				i.remove();
@@ -49,13 +57,20 @@ public class NpcUpdating {
 		// Update the local NPC list itself.
 		for (int i = 0; i < World.getNpcs().length; i++) {
 			Npc npc = World.getNpcs()[i];
-			if (npc == null || player.getNpcs().contains(npc) || !npc.isVisible()) {
+			if (npc == null || player.getNpcs().contains(npc)
+					|| !npc.isVisible()) {
 				continue;
 			}
-			if (npc.getPosition().isViewableFrom(player.getPosition())) {
-				addNpc(out, player, npc);
-				if (npc.isUpdateRequired()) {
-					NpcUpdating.updateState(block, npc);
+			if (npc.getPosition().getZ() == player.getPosition().getZ()) {
+				if (npc.getPosition().isViewableFrom(player.getPosition())) {
+					addNpc(out, player, npc);
+					if (npc.isUpdateRequired()) {
+						NpcUpdating.updateState(block, npc);
+					}
+				}
+			} else {
+				if (player.getNpcs().contains(i)) {
+					player.getNpcs().remove(i);
 				}
 			}
 		}
@@ -84,7 +99,8 @@ public class NpcUpdating {
 	 * @param npc
 	 *            The NPC being added
 	 */
-	private static void addNpc(StreamBuffer.OutBuffer out, Player player, Npc npc) {
+	private static void addNpc(StreamBuffer.OutBuffer out, Player player,
+			Npc npc) {
 		out.writeBits(14, npc.getSlot());
 		Position delta = Misc.delta(player.getPosition(), npc.getPosition());
 		out.writeBits(5, delta.getY());

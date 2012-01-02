@@ -13,8 +13,10 @@ import java.util.Map;
 import tk.destrix.game.World;
 import tk.destrix.game.model.Client;
 import tk.destrix.game.model.Player;
+import tk.destrix.game.model.def.ItemDefinitions;
 import tk.destrix.game.net.packet.PacketManager;
 import tk.destrix.game.util.Misc;
+import tk.destrix.game.util.XStreamUtil;
 
 /**
  * The main core of RuneSource.
@@ -81,9 +83,13 @@ public class Server implements Runnable {
 			// Load packets.
 			PacketManager.loadPackets();
 			
+			// Initialize XStream.
+			XStreamUtil.initializeXStream();
+			
 			// Load configuration.
 			Misc.sortEquipmentSlotDefinitions();
 			Misc.loadStackableItems("./data/stackable.dat");
+			ItemDefinitions.loadItemDefinition();
 
 			// Start up and get a'rollin!
 			startup();

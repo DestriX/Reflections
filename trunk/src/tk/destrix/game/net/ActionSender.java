@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 
 import tk.destrix.game.model.Player;
-import tk.destrix.net.StreamBuffer;
 
 public class ActionSender {
 	

@@ -4,8 +4,8 @@ import java.util.Iterator;
 
 import tk.destrix.game.Position;
 import tk.destrix.game.World;
+import tk.destrix.game.net.StreamBuffer;
 import tk.destrix.game.util.Misc;
-import tk.destrix.net.StreamBuffer;
 
 /*
  * This file is part of RuneSource.
@@ -56,6 +56,7 @@ public final class PlayerUpdating {
 		out.writeBits(8, player.getPlayers().size());
 		for (Iterator<Player> i = player.getPlayers().iterator(); i.hasNext();) {
 			Player other = i.next();
+			if(other.getPosition().getZ() == player.getPosition().getZ()) {
 			if (other.getPosition().isViewableFrom(player.getPosition()) && other.getStage() == Client.Stage.LOGGED_IN && !other.needsPlacement()) {
 				PlayerUpdating.updateOtherPlayerMovement(other, out);
 				if (other.isUpdateRequired()) {
@@ -66,6 +67,12 @@ public final class PlayerUpdating {
 				out.writeBits(2, 3);
 				i.remove();
 			}
+			 } else {
+                 //if not remove player.
+                 out.writeBit(true);
+                 out.writeBits(2, 3);
+                 i.remove();
+         }
 		}
 
 		// Update the local player list.
@@ -78,11 +85,17 @@ public final class PlayerUpdating {
 			if (other == null || other == player || other.getStage() != Client.Stage.LOGGED_IN) {
 				continue;
 			}
+			if(other.getPosition().getZ() == player.getPosition().getZ()){
 			if (!player.getPlayers().contains(other) && other.getPosition().isViewableFrom(player.getPosition())) {
 				player.getPlayers().add(other);
 				PlayerUpdating.addPlayer(out, player, other);
 				PlayerUpdating.updateState(other, block, true, false);
 			}
+			} else {
+                if(player.getPlayers().contains(i)){
+                   player.getPlayers().remove(i);                               
+                }
+            }
 		}
 
 		// Append the attributes block to the main packet.

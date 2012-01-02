@@ -7,11 +7,11 @@ import java.security.SecureRandom;
 
 import tk.destrix.HostGateway;
 import tk.destrix.Server;
+import tk.destrix.game.net.ISAACCipher;
+import tk.destrix.game.net.StreamBuffer;
 import tk.destrix.game.net.packet.PacketActor;
 import tk.destrix.game.net.packet.PacketManager;
 import tk.destrix.game.util.Misc;
-import tk.destrix.net.ISAACCipher;
-import tk.destrix.net.StreamBuffer;
 
 /**
  * The class behind a Player that handles all networking-related things.
